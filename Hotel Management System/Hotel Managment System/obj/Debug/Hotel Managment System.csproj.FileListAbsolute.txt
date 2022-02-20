@@ -1,0 +1,85 @@
+E:\Project\C#\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.exe.config
+E:\Project\C#\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.exe
+E:\Project\C#\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.pdb
+E:\Project\C#\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.AssemblyReference.cache
+E:\Project\C#\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.Form1.resources
+E:\Project\C#\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.Properties.Resources.resources
+E:\Project\C#\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.GenerateResource.cache
+E:\Project\C#\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.CoreCompileInputs.cache
+E:\Project\C#\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.exe
+E:\Project\C#\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.pdb
+E:\Project\C#\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.LogIn.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.exe.config
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.exe
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.pdb
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.AssemblyReference.cache
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.Properties.Resources.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.GenerateResource.cache
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.CoreCompileInputs.cache
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.exe
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.pdb
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.exe.config
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.exe
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.pdb
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.AssemblyReference.cache
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.Form1.resources
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.Properties.Resources.resources
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.GenerateResource.cache
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.CoreCompileInputs.cache
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.exe
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.pdb
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.Reservation.resources
+C:\Users\aslan\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.SpaReq.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.CustomerReservation.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.HotelServices.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.Form1.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ReservationSpaReq.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.RoomService.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.Payment.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.PaymentManagement.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.Shift.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ShiftManagament.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ViewCurrentPayments.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ViewCurrentShifts.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.CustomerRequest.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ChechInOut.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.CheckAviableRooms.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.CustomerFeedBack.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.FeedBacks.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.RestaurantRequest.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.RoomCleaningRequest.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.RoomServiceRequest.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.SpaRequest.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.SeePersonalInformation.resources
+C:\Users\eyup.basli\OneDrive - Veripark Yazilim A.S\Desktop\Common Area\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ViewCheckInOut.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.exe.config
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.exe
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\bin\Debug\Hotel Managment System.pdb
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.AssemblyReference.cache
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ChechInOut.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.CheckAviableRooms.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.CustomerFeedBack.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.CustomerRequest.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.FeedBacks.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.CustomerReservation.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.Form1.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.Properties.Resources.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.RestaurantRequest.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.RoomCleaningRequest.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.RoomServiceRequest.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.SpaRequest.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.SeePersonalInformation.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ViewCheckInOut.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.Shift.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ShiftManagament.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ViewCurrentShifts.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.Payment.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.PaymentManagement.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.HotelServices.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ReservationSpaReq.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.RoomService.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel_Managment_System.UI.ViewCurrentPayments.resources
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.GenerateResource.cache
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.csproj.CoreCompileInputs.cache
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.exe
+C:\Users\fuatk\Desktop\Hotel Managment System\Hotel Managment System\obj\Debug\Hotel Managment System.pdb

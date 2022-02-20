@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9075817-38E5-4C88-907F-456D599CB3AC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Hotel_Managment_System</RootNamespace>
+    <AssemblyName>Hotel Managment System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="UI\CheckInOut\ChechInOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CheckInOut\ChechInOut.Designer.cs">
+      <DependentUpon>ChechInOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CheckInOut\CheckAviableRooms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CheckInOut\CheckAviableRooms.Designer.cs">
+      <DependentUpon>CheckAviableRooms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\RegisteredCustomer\CustomerFeedBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\RegisteredCustomer\CustomerFeedBack.Designer.cs">
+      <DependentUpon>CustomerFeedBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\CustomerRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\CustomerRequest.Designer.cs">
+      <DependentUpon>CustomerRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FeedBack\FeedBacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FeedBack\FeedBacks.Designer.cs">
+      <DependentUpon>FeedBacks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\NewCustomer\CustomerReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\NewCustomer\CustomerReservation.Designer.cs">
+      <DependentUpon>CustomerReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\CustomerRequests\RestaurantRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\RestaurantRequest.Designer.cs">
+      <DependentUpon>RestaurantRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\RoomCleaningRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\RoomCleaningRequest.Designer.cs">
+      <DependentUpon>RoomCleaningRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\RoomServiceRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\RoomServiceRequest.Designer.cs">
+      <DependentUpon>RoomServiceRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\SpaRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CustomerRequests\SpaRequest.Designer.cs">
+      <DependentUpon>SpaRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CheckInOut\SeePersonalInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CheckInOut\SeePersonalInformation.Designer.cs">
+      <DependentUpon>SeePersonalInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CheckInOut\ViewCheckInOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\CheckInOut\ViewCheckInOut.Designer.cs">
+      <DependentUpon>ViewCheckInOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Worker\Shifts\Shift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Worker\Shifts\Shift.Designer.cs">
+      <DependentUpon>Shift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Worker\Shifts\ShiftManagament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Worker\Shifts\ShiftManagament.Designer.cs">
+      <DependentUpon>ShiftManagament.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Worker\Shifts\ViewCurrentShifts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Worker\Shifts\ViewCurrentShifts.Designer.cs">
+      <DependentUpon>ViewCurrentShifts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Worker\Payment\Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Worker\Payment\Payment.Designer.cs">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Worker\Payment\PaymentManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Worker\Payment\PaymentManagement.Designer.cs">
+      <DependentUpon>PaymentManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\RegisteredCustomer\HotelServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\RegisteredCustomer\HotelServices.Designer.cs">
+      <DependentUpon>HotelServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\RegisteredCustomer\ReservationSpaRest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\RegisteredCustomer\ReservationSpaRest.Designer.cs">
+      <DependentUpon>ReservationSpaRest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\RegisteredCustomer\RoomService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\RegisteredCustomer\RoomService.Designer.cs">
+      <DependentUpon>RoomService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Worker\Payment\ViewCurrentPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Worker\Payment\ViewCurrentPayments.Designer.cs">
+      <DependentUpon>ViewCurrentPayments.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\CheckInOut\ChechInOut.resx">
+      <DependentUpon>ChechInOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CheckInOut\CheckAviableRooms.resx">
+      <DependentUpon>CheckAviableRooms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\RegisteredCustomer\CustomerFeedBack.resx">
+      <DependentUpon>CustomerFeedBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CustomerRequests\CustomerRequest.resx">
+      <DependentUpon>CustomerRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FeedBack\FeedBacks.resx">
+      <DependentUpon>FeedBacks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\NewCustomer\CustomerReservation.resx">
+      <DependentUpon>CustomerReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\CustomerRequests\RestaurantRequest.resx">
+      <DependentUpon>RestaurantRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CustomerRequests\RoomCleaningRequest.resx">
+      <DependentUpon>RoomCleaningRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CustomerRequests\RoomServiceRequest.resx">
+      <DependentUpon>RoomServiceRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CustomerRequests\SpaRequest.resx">
+      <DependentUpon>SpaRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CheckInOut\SeePersonalInformation.resx">
+      <DependentUpon>SeePersonalInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\CheckInOut\ViewCheckInOut.resx">
+      <DependentUpon>ViewCheckInOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Worker\Shifts\Shift.resx">
+      <DependentUpon>Shift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Worker\Shifts\ShiftManagament.resx">
+      <DependentUpon>ShiftManagament.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Worker\Shifts\ViewCurrentShifts.resx">
+      <DependentUpon>ViewCurrentShifts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Worker\Payment\Payment.resx">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Worker\Payment\PaymentManagement.resx">
+      <DependentUpon>PaymentManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\RegisteredCustomer\HotelServices.resx">
+      <DependentUpon>HotelServices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\RegisteredCustomer\ReservationSpaRest.resx">
+      <DependentUpon>ReservationSpaRest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\RegisteredCustomer\RoomService.resx">
+      <DependentUpon>RoomService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Worker\Payment\ViewCurrentPayments.resx">
+      <DependentUpon>ViewCurrentPayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
